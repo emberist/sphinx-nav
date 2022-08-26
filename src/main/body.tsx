@@ -144,7 +144,6 @@ export default function BodyComponent() {
     a.target = "_blank";
     a.click();
   }
-
   const contentMenuWidth = 433;
   return (
     <Body>
